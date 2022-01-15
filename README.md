@@ -18,7 +18,7 @@ This project is the **FINAL CAPSTONE PROJECT**, part of Upgrads PGDDS(Post Gradu
 
 ## HOW: Process Involved
 - This section mentions EDA Process, ML algorithms, Libraries, stragtegy used if any etc
-- I have made a **PPT PRESENTATION** of this project, can be viewed on **slide share** here:** Also under `/presentations` directory (See directory structure below)
+- I have made a **PPT PRESENTATION** of this project, can be viewed on **[SLIDESHARE_HERE](https://www.slideshare.net/achalkagwad/ecommerce-market-mix-modeling-using-linear-regression)** Present also under `/presentations` directory (See directory structure below)
 - I also have a **VIDEO EXPLANATION** which explains the process EDA, Feature Engineering, Linear Regression Models built, Model Selection and Evaluation, can be viewed here: also under `/presentations` directory(See directory structure below)
 - I have built additive and multiplicative Linear Regression Models for this market mix modelling.
 - Koyck and Distributed lag models could be built and have parked them for future if time permits.
