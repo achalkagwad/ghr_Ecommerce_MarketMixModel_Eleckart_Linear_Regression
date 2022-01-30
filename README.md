@@ -125,4 +125,3 @@ The audience should be able to intuitively understand the model/analysis that yo
 |     |-- presentations <-Manually created presentations for business users,stake holders in pptx,pdf etc
 |           |-- images <- Manual images obtained from various sources for presentation & other checkpoints
 ```
-# HI HIMANKA
